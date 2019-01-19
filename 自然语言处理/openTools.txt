@@ -1,0 +1,3 @@
+Fasttext 轻量的文本分类及向量化模型 https://fasttext.cc/docs/en/crawl-vectors.html 
+SIF  利用词向量将句子转成句子向量的工具包
+BERT 
