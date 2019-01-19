@@ -21,6 +21,9 @@
 * LINE
 * SDNE
 
+# 算法的可解释性
+
+Lime(Local Interpretable Model-Agnostic Explanations)
 
 # 工具包汇总
 
