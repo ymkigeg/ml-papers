@@ -36,5 +36,7 @@
 
 ## 文本处理工具包
 * Fasttext
-* SIF  利用词向量将句子转成句子向量的工具包
+* [SIF](https://github.com/PrincetonML/SIF)  利用词向量将句子转成句子向量的工具包
 * BERT
+* [gensim](https://radimrehurek.com/gensim/models/doc2vec.html)
+* [DSSM](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)
