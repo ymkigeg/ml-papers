@@ -23,8 +23,8 @@
 
 # 算法的可解释性
 
-[Lime(Local Interpretable Model-Agnostic Explanations)](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
-      对应CSDN上的中文版: https://blog.csdn.net/a358463121/article/details/52313585
+* [Lime(Local Interpretable Model-Agnostic Explanations)](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
+  * 对应CSDN上的中文版: https://blog.csdn.net/a358463121/article/details/52313585
 
 # 工具包汇总
 
