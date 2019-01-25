@@ -30,7 +30,7 @@
 
 ## 机器学习推荐算法工具包
 * sklean
-* Xgboost   java实现 [xgboost-predictor-java](https://github.com/komiya-atsushi/xgboost-predictor-java)
+* Xgboost - java实现 [xgboost-predictor-java](https://github.com/komiya-atsushi/xgboost-predictor-java)
 * LightGBM
 * Ranklib   是一个开源的Learning To Rank工具包
 * xLearn    是一个开源的FFM工具
