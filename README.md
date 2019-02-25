@@ -56,3 +56,4 @@
 # 数据集
 ## 语音数据
 * [希尔贝壳](http://www.aishelltech.com/cjsj)
+* [openSLR](http://www.openslr.org/resources.php)
