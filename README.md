@@ -40,7 +40,11 @@
 * xLearn    是一个开源的FFM工具
 
 ## 图像处理工具包
+* ImageNate  手动标注好类型的图片数据库
 * ResNet50
+* VGG16 、VGG19
+* Inception V3
+* Xception
 
 ## 文本处理工具包
 * Fasttext
