@@ -53,6 +53,9 @@
 * [gensim](https://radimrehurek.com/gensim/models/doc2vec.html)
 * [DSSM](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)
 
+## 情感分析
+* [ai challenger 2018细粒度情感分类第一名解决方案](https://github.com/chenghuige/wenzheng)
+
 # 数据集
 ## 语音数据
 * [希尔贝壳](http://www.aishelltech.com/cjsj)
