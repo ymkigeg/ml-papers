@@ -62,7 +62,8 @@
 * [DSSM](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)
 
 ## 中文
-* [中文自然语言处理相关资料](https://github.com/crownpku/Awesome-Chinese-NLP)
+* [Awesome-Chinese-NLP 中文自然语言处理相关资料](https://github.com/crownpku/Awesome-Chinese-NLP)
+* [awesome-nlp](https://github.com/keon/awesome-nlp)
 * [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 
 ## 情感分析
