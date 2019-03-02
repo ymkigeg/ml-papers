@@ -60,7 +60,10 @@
 * BERT
 * [gensim](https://radimrehurek.com/gensim/models/doc2vec.html)
 * [DSSM](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)
+
+## 中文
 * [中文自然语言处理相关资料](https://github.com/crownpku/Awesome-Chinese-NLP)
+* [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 
 ## 情感分析
 * [ai challenger 2018细粒度情感分类第一名解决方案](https://github.com/chenghuige/wenzheng)
