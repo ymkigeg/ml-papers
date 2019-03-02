@@ -39,14 +39,22 @@
 * Ranklib   是一个开源的Learning To Rank工具包
 * xLearn    是一个开源的FFM工具
 
-## 图像处理工具包
+## 图像处理
 * ImageNate  手动标注好类型的图片数据库
 * ResNet50
 * VGG16 、VGG19
 * Inception V3
 * Xception
 
-## 文本处理工具包
+### 目标检测
+* [YOLOv3](https://pjreddie.com/darknet/yolo/)
+* [keras-YOLOv3](https://github.com/qqwweee/keras-yolo3)
+* [SSD](https://github.com/amdegroot/ssd.pytorch)
+
+### 可视化
+* [visdom](https://github.com/facebookresearch/visdom)
+
+## 文本处理
 * Fasttext
 * [SIF](https://github.com/PrincetonML/SIF)  利用词向量将句子转成句子向量的工具包
 * BERT
