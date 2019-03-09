@@ -38,7 +38,7 @@
 * Xgboost - java实现 [xgboost-predictor-java](https://github.com/komiya-atsushi/xgboost-predictor-java)
 * LightGBM
 * Ranklib   是一个开源的Learning To Rank工具包
-* xLearn    是一个开源的FFM工具
+* [xLearn](https://github.com/aksnzhy/xlearn)    是一个开源的FFM工具
 
 ## 图像处理
 * ImageNate  手动标注好类型的图片数据库
