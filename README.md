@@ -70,7 +70,11 @@
 ## 情感分析
 * [ai challenger 2018细粒度情感分类第一名解决方案](https://github.com/chenghuige/wenzheng)
 
+## 语音处理
+* [VGGish](https://github.com/tensorflow/models/tree/master/research/audioset)
+
 # 数据集
 ## 语音数据
 * [希尔贝壳](http://www.aishelltech.com/cjsj)
 * [openSLR](http://www.openslr.org/resources.php)
+* [AudioSet](https://research.google.com/audioset/download.html)
