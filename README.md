@@ -76,5 +76,6 @@
 # 数据集
 ## 语音数据
 * [希尔贝壳](http://www.aishelltech.com/cjsj)
+* [Datasets for machine learning](https://www.datasetlist.com/)
 * [openSLR](http://www.openslr.org/resources.php)
 * [AudioSet](https://research.google.com/audioset/download.html)
