@@ -10,6 +10,7 @@
 * [DNN论文分享 - Item2vec: Neural Item Embedding for Collaborative Filtering](https://zhuanlan.zhihu.com/p/24339183?refer=deeplearning-surfing)
 * [《搜索与推荐中的深度学习匹配》之搜索篇](https://zhuanlan.zhihu.com/p/38296950?utm_source=wechat_session&utm_medium=social&utm_oi=26825547841536)
 * [《搜索与推荐中的深度学习匹配》之推荐篇](https://zhuanlan.zhihu.com/p/45849695?utm_source=wechat_session&utm_medium=social&utm_oi=26825547841536)
+* [推荐系统召回四模型之：全能的FM模型](https://zhuanlan.zhihu.com/p/58160982)
 
 
 ## 由word2vec演进的Embedding方法
