@@ -11,7 +11,6 @@
 * [《搜索与推荐中的深度学习匹配》之搜索篇](https://zhuanlan.zhihu.com/p/38296950?utm_source=wechat_session&utm_medium=social&utm_oi=26825547841536)
 * [《搜索与推荐中的深度学习匹配》之推荐篇](https://zhuanlan.zhihu.com/p/45849695?utm_source=wechat_session&utm_medium=social&utm_oi=26825547841536)
 * [推荐系统召回四模型之：全能的FM模型](https://zhuanlan.zhihu.com/p/58160982)
-* [深度学习在美团点评推荐业务中实践](https://gitbook.cn/books/5aa0dd15cfbe2c144b71906d/index.html)
 
 ## 由word2vec演进的Embedding方法
 * [有哪些好的sentence/paragraph Embedding方法？](https://www.zhihu.com/question/299549788)
