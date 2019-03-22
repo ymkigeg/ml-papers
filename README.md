@@ -39,6 +39,7 @@
 * LightGBM
 * Ranklib   是一个开源的Learning To Rank工具包
 * [xLearn](https://github.com/aksnzhy/xlearn)    是一个开源的FFM工具
+* [DeepLearning4J](https://github.com/deeplearning4j/deeplearning4j)
 
 ## 图像处理
 * ImageNate  手动标注好类型的图片数据库
