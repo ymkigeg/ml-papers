@@ -58,6 +58,7 @@
 
 ### 可视化
 * [visdom](https://github.com/facebookresearch/visdom)
+* [embedding可视化](https://github.com/tensorflow/embedding-projector-standalone)
 
 ## 文本处理
 * Fasttext
