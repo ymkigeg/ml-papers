@@ -28,6 +28,7 @@
 
 * [Lime(Local Interpretable Model-Agnostic Explanations)](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
   * 对应CSDN上的中文版: https://blog.csdn.net/a358463121/article/details/52313585
+* [shap value](https://github.com/slundberg/shap)
 * [google机器学习规则总结](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 * [分析大型复杂数据集的实用建议](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 
