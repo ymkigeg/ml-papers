@@ -86,5 +86,6 @@
 * [openSLR](http://www.openslr.org/resources.php)
 * [AudioSet](https://research.google.com/audioset/download.html)
 
-# 平台
+# 分布式
 * [Angel: 基于参数服务器（Parameter Server）的分布式机器学习平台](https://github.com/Angel-ML/angel)
+* [horovod](https://github.com/horovod/horovod)
