@@ -21,8 +21,9 @@
 * item2vec
 * node2vec
 * DeepWalk
-* LINE
+* [LINE](https://github.com/tangjianpku/LINE)
 * SDNE
+* EGES(Enhanced Graph Embedding with Side Information)
 
 # 算法的可解释性
 
