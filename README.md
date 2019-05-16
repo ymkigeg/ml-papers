@@ -19,7 +19,7 @@
 * [有哪些好的sentence/paragraph Embedding方法？](https://www.zhihu.com/question/299549788)
 * doc2vec
 * item2vec
-* node2vec
+* [node2vec](https://github.com/eliorc/node2vec)
 * DeepWalk
 * [LINE](https://github.com/tangjianpku/LINE)
 * SDNE
