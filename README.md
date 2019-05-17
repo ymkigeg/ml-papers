@@ -24,6 +24,8 @@
 * [LINE](https://github.com/tangjianpku/LINE)
 * SDNE
 * EGES(Enhanced Graph Embedding with Side Information)
+* [GEM: Graph Embedding Methods](https://github.com/palash1992/GEM)
+* [DynamicGEM(实现了多个embedding的项目)](https://github.com/palash1992/DynamicGEM)
 
 # 算法的可解释性
 
