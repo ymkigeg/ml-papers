@@ -75,6 +75,7 @@
 * [Awesome-Chinese-NLP 中文自然语言处理相关资料](https://github.com/crownpku/Awesome-Chinese-NLP)
 * [awesome-nlp](https://github.com/keon/awesome-nlp)
 * [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
+* [NLP-progress](https://github.com/sebastianruder/NLP-progress)
 
 ## 情感分析
 * [ai challenger 2018细粒度情感分类第一名解决方案](https://github.com/chenghuige/wenzheng)
