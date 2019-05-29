@@ -64,18 +64,17 @@
 * [visdom](https://github.com/facebookresearch/visdom)
 * [embedding可视化](https://github.com/tensorflow/embedding-projector-standalone)
 
-## 文本处理
+## NLP
 * Fasttext
 * [SIF](https://github.com/PrincetonML/SIF)  利用词向量将句子转成句子向量的工具包
 * BERT
 * [gensim](https://radimrehurek.com/gensim/models/doc2vec.html)
 * [DSSM](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)
-
-## 中文
 * [Awesome-Chinese-NLP 中文自然语言处理相关资料](https://github.com/crownpku/Awesome-Chinese-NLP)
 * [awesome-nlp](https://github.com/keon/awesome-nlp)
 * [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 * [NLP-progress](https://github.com/sebastianruder/NLP-progress)
+* [NLP-tutorial](https://github.com/graykode/nlp-tutorial)
 
 ## 情感分析
 * [ai challenger 2018细粒度情感分类第一名解决方案](https://github.com/chenghuige/wenzheng)
