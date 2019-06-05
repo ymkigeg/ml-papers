@@ -1,3 +1,7 @@
+item2vec: https://zhuanlan.zhihu.com/p/24339183?refer=deeplearning-surfing
+YouTube DNN推荐: https://zhuanlan.zhihu.com/p/52504407
+YouTube DNN推荐精读: https://zhuanlan.zhihu.com/p/25343518
+主流CTR模型对比: https://zhuanlan.zhihu.com/p/35465875
 工具包:
 Xgboost
 LightGBM
