@@ -85,6 +85,9 @@
 * [VGGish](https://github.com/tensorflow/models/tree/master/research/audioset)
 
 # 数据集
+## 微软
+* https://msropendata.com/datasets
+
 ## 语音数据
 * [希尔贝壳](http://www.aishelltech.com/cjsj)
 * [Datasets for machine learning](https://www.datasetlist.com/)
