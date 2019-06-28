@@ -104,3 +104,4 @@
 # 分布式
 * [Angel: 基于参数服务器（Parameter Server）的分布式机器学习平台](https://github.com/Angel-ML/angel)
 * [horovod](https://github.com/horovod/horovod)
+* [BytePS](https://github.com/bytedance/byteps)
