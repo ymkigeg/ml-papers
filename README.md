@@ -15,8 +15,9 @@
 ## 推荐论文资料
 * [王喆的Reco-papers](https://github.com/wzhe06/Reco-papers)
 
-## CTR模型
-* [](https://github.com/shenweichen/DeepCTR)
+## 开源模型
+* [DeepCTR](https://github.com/shenweichen/DeepCTR)
+* [attention机制实现](https://github.com/ongunuzaymacar/attention-mechanisms)
 
 ## 由word2vec演进的Embedding方法
 * [有哪些好的sentence/paragraph Embedding方法？](https://www.zhihu.com/question/299549788)
