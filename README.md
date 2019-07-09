@@ -58,6 +58,7 @@
 * VGG16 、VGG19
 * Inception V3
 * Xception
+* [video2vec](http://www.public.asu.edu/~bli24/Papers/ICPR2016_video2vec.pdf)
 
 ### 目标检测
 * [YOLOv3](https://pjreddie.com/darknet/yolo/)
