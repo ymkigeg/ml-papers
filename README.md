@@ -73,7 +73,7 @@
 * Fasttext
 * [SIF](https://github.com/PrincetonML/SIF)  利用词向量将句子转成句子向量的工具包
 * [ELMO](https://github.com/allenai/bilm-tf)
-* BERT
+* [BERT](https://github.com/google-research/bert)
 * [gensim](https://radimrehurek.com/gensim/models/doc2vec.html)
 * [DSSM](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)
 * [Awesome-Chinese-NLP 中文自然语言处理相关资料](https://github.com/crownpku/Awesome-Chinese-NLP)
