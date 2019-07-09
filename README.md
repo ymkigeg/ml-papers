@@ -52,7 +52,7 @@
 * [xLearn](https://github.com/aksnzhy/xlearn)    是一个开源的FFM工具
 * [DeepLearning4J](https://github.com/deeplearning4j/deeplearning4j)
 
-## 图像处理
+## 计算机视觉
 * ImageNate  手动标注好类型的图片数据库
 * ResNet50
 * VGG16 、VGG19
