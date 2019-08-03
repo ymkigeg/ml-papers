@@ -17,6 +17,7 @@
 
 ## 开源模型
 * [DeepCTR](https://github.com/shenweichen/DeepCTR)
+* [基于estimator实现的deeplearning相关源码](https://github.com/yangxudong/deeplearning)
 * [attention机制实现](https://github.com/ongunuzaymacar/attention-mechanisms)
 
 ## 由word2vec演进的Embedding方法
