@@ -109,3 +109,4 @@
 * [horovod](https://github.com/horovod/horovod)
 * [BytePS](https://github.com/bytedance/byteps)
 * [elephas](https://github.com/maxpumperla/elephas)
+* [XLearning](https://github.com/Qihoo360/XLearning)
