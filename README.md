@@ -111,3 +111,4 @@
 * [BytePS(字节跳动开源)](https://github.com/bytedance/byteps)
 * [elephas](https://github.com/maxpumperla/elephas)
 * [XLearning(360开源)](https://github.com/Qihoo360/XLearning)
+* [paddle(百度开源)](https://github.com/PaddlePaddle/Paddle)
