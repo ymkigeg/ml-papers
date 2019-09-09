@@ -106,8 +106,8 @@
 * [Criteo](http://research.criteo.com/outreach/)
 
 # 分布式
-* [Angel(腾讯)](https://github.com/Angel-ML/angel)
-* [horovod](https://github.com/horovod/horovod)
-* [BytePS](https://github.com/bytedance/byteps)
+* [Angel(腾讯开源)](https://github.com/Angel-ML/angel)
+* [horovod(Uber开源)](https://github.com/horovod/horovod)
+* [BytePS(字节跳动开源)](https://github.com/bytedance/byteps)
 * [elephas](https://github.com/maxpumperla/elephas)
-* [XLearning](https://github.com/Qihoo360/XLearning)
+* [XLearning(360开源)](https://github.com/Qihoo360/XLearning)
