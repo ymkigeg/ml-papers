@@ -54,7 +54,7 @@
 * [DeepLearning4J](https://github.com/deeplearning4j/deeplearning4j)
 
 ## 计算机视觉
-* ImageNate  手动标注好类型的图片数据库
+* ImageNet
 * ResNet50
 * VGG16 、VGG19
 * Inception V3
