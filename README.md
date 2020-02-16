@@ -35,6 +35,7 @@
 ## 最近邻检索
 * [ANN索引](https://github.com/spotify/annoy)
 * [FAISS索引](https://github.com/facebookresearch/faiss)
+* [milvus](https://github.com/milvus-io/milvus)
 
 # 算法的可解释性
 
