@@ -32,6 +32,10 @@
 * [GEM: Graph Embedding Methods](https://github.com/palash1992/GEM)
 * [DynamicGEM(实现了多个embedding的项目)](https://github.com/palash1992/DynamicGEM)
 
+## 最近邻检索
+* [ANN索引](https://github.com/spotify/annoy)
+* [FAISS索引](https://github.com/facebookresearch/faiss)
+
 # 算法的可解释性
 
 * [Lime(Local Interpretable Model-Agnostic Explanations)](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
