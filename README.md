@@ -37,6 +37,9 @@
 * [FAISS索引](https://github.com/facebookresearch/faiss)
 * [milvus](https://github.com/milvus-io/milvus)
 
+## 图神经网络
+* [DGL](https://github.com/dmlc/dgl)
+
 # 算法的可解释性
 
 * [Lime(Local Interpretable Model-Agnostic Explanations)](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
