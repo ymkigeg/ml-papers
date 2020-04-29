@@ -19,6 +19,7 @@
 * [DeepCTR](https://github.com/shenweichen/DeepCTR)
 * [基于estimator实现的deeplearning相关源码](https://github.com/yangxudong/deeplearning)
 * [attention机制实现](https://github.com/ongunuzaymacar/attention-mechanisms)
+* [阿里x-deeplearning](https://github.com/alibaba/x-deeplearning)
 
 ## 由word2vec演进的Embedding方法
 * [有哪些好的sentence/paragraph Embedding方法？](https://www.zhihu.com/question/299549788)
