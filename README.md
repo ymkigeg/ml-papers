@@ -41,6 +41,12 @@
 ## 图神经网络
 * [DGL](https://github.com/dmlc/dgl)
 
+## 社区发现算法
+* 标签传播(LPA)
+* lovain
+* method
+* infomap
+
 # 算法的可解释性
 
 * [Lime(Local Interpretable Model-Agnostic Explanations)](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
