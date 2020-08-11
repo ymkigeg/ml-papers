@@ -119,6 +119,7 @@
 ## 其他
 * [知乎汇总的数据集](https://zhuanlan.zhihu.com/p/25138563)
 * [Criteo](http://research.criteo.com/outreach/)
+* 时长预估 RecSys15、CIKM16 和 REDDIT
 
 # 分布式
 * [Angel(腾讯开源)](https://github.com/Angel-ML/angel)
