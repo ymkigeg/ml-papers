@@ -47,6 +47,11 @@
 * method
 * infomap
 
+## 强化学习资料
+* 莫烦python(https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
+* https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+* https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+
 # 算法的可解释性
 
 * [Lime(Local Interpretable Model-Agnostic Explanations)](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
