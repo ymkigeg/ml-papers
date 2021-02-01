@@ -104,6 +104,7 @@
 * [NLP-progress](https://github.com/sebastianruder/NLP-progress)
 * [NLP-tutorial](https://github.com/graykode/nlp-tutorial)
 * [HanLP-中文分词-新词发现](https://github.com/hankcs/HanLP)
+* [stanfordnlp-英文词性标注](https://github.com/stanfordnlp/CoreNLP)
 
 ## 情感分析
 * [ai challenger 2018细粒度情感分类第一名解决方案](https://github.com/chenghuige/wenzheng)
